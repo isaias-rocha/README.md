@@ -1,4 +1,8 @@
-![Estudando programação]([https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN0a3A2NTIxdm9ob2NnNDF5cGdkZGJuYm92MWdhMDcxOHlibHR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hOgc8203372r3p9Ps9/giphy.gif)) 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA1YnBtM205OGNnNDY4ams0ejFpcnN6eXo5d3BlYzVnYmM1ZW5xaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" alt="Coding GIF">
+</p>
+
+---
 
 # 📘 Portfólio Acadêmico — Desenvolvimento de Sistemas
 
