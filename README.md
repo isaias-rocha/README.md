@@ -1,28 +1,58 @@
-# Isaias Rocha
+# 📘 Portfólio Acadêmico — Desenvolvimento de Sistemas
 
-Olá seja bem-vindo(a), sou um mero apaixonado por games!
+Este repositório reúne projetos, exercícios e anotações desenvolvidos durante meu curso técnico em **Desenvolvimento de Sistemas**.  
+O objetivo é documentar minha evolução, aplicar conceitos aprendidos em sala de aula e construir uma base sólida para atuação futura na área de tecnologia.
 
+---
 
-## Conecte-se Comigo
+## 👨‍🎓 Sobre mim
+Sou estudante do curso técnico em **Desenvolvimento de Sistemas**, com interesse em programação, banco de dados e boas práticas de desenvolvimento.  
+Busco consolidar conhecimentos fundamentais e desenvolver competências técnicas que me preparem para desafios profissionais.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isaias-rocha) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaiasrocha.dev@gmail.com)
+---
 
- 
-## Habilidades
+## 🛠️ Competências em desenvolvimento
+**Linguagens de programação**  
+- Java  
+- JavaScript  
+- TypeScript  
+- C++  
+- SQL  
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+**Frameworks e ferramentas**  
+- Spring Boot  
+- Node.js  
+- Git  
 
+**Observação**  
+Ainda em fase de aprendizado sobre **APIs** e integração de sistemas, com planos de aprofundar este conhecimento em projetos futuros.
 
-## Github Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaias-rocha&theme=transparent&bg_color=005&border_color=30A3DC&show_icons=true&icon_color=03FA8F&title_color=03FA8F&text_color=FFF&hide_title=true&hide=stars)
+## 📂 Projetos acadêmicos
+- **Aplicações em Java**: exercícios de lógica e orientação a objetos.  
+- **Programas em C++**: práticas de estruturas de dados e algoritmos.  
+- **Scripts em JavaScript/TypeScript**: automação de tarefas e manipulação de dados.  
+- **Banco de dados SQL**: modelagem e consultas para sistemas de cadastro.  
 
-## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=isaias-rocha&repo=dio-lab-open-source&bg_color=005&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=03FA8F&text_color=FFF)](https://github.com/isaias-rocha/dio-lab-open-source)
+---
+
+## 🎯 Metas de aprendizado
+- Consolidar fundamentos de programação orientada a objetos.  
+- Aprender e aplicar conceitos de **APIs REST**.  
+- Desenvolver projetos integrando **backend** e **frontend**.  
+- Praticar versionamento e colaboração com **Git/GitHub**.  
+- Concluir o curso técnico com projetos aplicáveis ao mercado de trabalho.  
+
+---
+
+## 📬 Contato
+- **Email**: seu-email@exemplo.com  
+- **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)  
+- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+
+---
+
+## 📌 Nota final
+Este repositório reflete minha trajetória acadêmica e profissional em construção.  
+Cada projeto representa um passo no desenvolvimento das minhas habilidades técnicas e na preparação para futuras oportunidades na área de tecnologia.
