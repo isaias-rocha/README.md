@@ -1,3 +1,5 @@
+![Estudando programação]([https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN0a3A2NTIxdm9ob2NnNDF5cGdkZGJuYm92MWdhMDcxOHlibHR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hOgc8203372r3p9Ps9/giphy.gif)) 
+
 # 📘 Portfólio Acadêmico — Desenvolvimento de Sistemas
 
 Este repositório reúne projetos, exercícios e anotações desenvolvidos durante meu curso técnico em **Desenvolvimento de Sistemas**.  
@@ -57,5 +59,5 @@ Ainda em fase de aprendizado sobre **APIs** e integração de sistemas, com plan
 Este repositório reflete minha trajetória acadêmica e profissional em construção.  
 Cada projeto representa um passo no desenvolvimento das minhas habilidades técnicas e na preparação para futuras oportunidades na área de tecnologia.
 
-![Estudando programação](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 
