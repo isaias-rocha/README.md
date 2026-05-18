@@ -48,11 +48,14 @@ Ainda em fase de aprendizado sobre **APIs** e integração de sistemas, com plan
 
 ## 📬 Contato
 - **Email**: seu-email@exemplo.com  
-- **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)  
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- **GitHub**: [github.com/seu-usuario](https://github.com/isaias-rocha)  
+- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/isaias-rocha-44rr)  
 
 ---
 
 ## 📌 Nota final
 Este repositório reflete minha trajetória acadêmica e profissional em construção.  
 Cada projeto representa um passo no desenvolvimento das minhas habilidades técnicas e na preparação para futuras oportunidades na área de tecnologia.
+
+![Estudando programação](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
