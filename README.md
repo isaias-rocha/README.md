@@ -53,7 +53,7 @@ Ainda em fase de aprendizado sobre **APIs** e integração de sistemas, com plan
 ---
 
 ## 📬 Contato
-- **Email**: seu-email@exemplo.com  
+- **Email**: isaiasrocha.dev@gmail.com  
 - **GitHub**: [github.com/seu-usuario](https://github.com/isaias-rocha)  
 - **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/isaias-rocha-44rr)  
 
