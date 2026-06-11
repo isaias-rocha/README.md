@@ -4,64 +4,76 @@
 
 ---
 
-# 📘 Portfólio Acadêmico — Desenvolvimento de Sistemas
 
-Este repositório reúne projetos, exercícios e anotações desenvolvidos durante meu curso técnico em **Desenvolvimento de Sistemas**.  
-O objetivo é documentar minha evolução, aplicar conceitos aprendidos em sala de aula e construir uma base sólida para atuação futura na área de tecnologia.
+# 📘 Portfólio Acadêmico — Tecnologia da Informação & Engenharia de Software
+
+Este repositório reúne meus principais projetos acadêmicos, notas de aula e laboratórios práticos. Ele documenta minha evolução técnica, consolidando a transição do Ensino Técnico para o Ensino Superior, com foco em desenvolvimento mobile, sistemas embarcados (IoT) e engenharia de software.
 
 ---
 
 ## 👨‍🎓 Sobre mim
-Sou estudante do curso técnico em **Desenvolvimento de Sistemas**, com interesse em programação, banco de dados e boas práticas de desenvolvimento.  
-Busco consolidar conhecimentos fundamentais e desenvolver competências técnicas que me preparem para desafios profissionais.
+Técnico em **Desenvolvimento de Sistemas** (Etec Uirapuru) e graduando em **Bacharelado em Tecnologia da Informação (BTI)** pela **UNIVESP** (Universidade Virtual do Estado de São Paulo).
+
+Tenho forte interesse em desenvolvimento de aplicações mobile nativas, internet das coisas (IoT) e modelagem de arquiteturas de software seguras e escaláveis. Busco alinhar a experiência prática adquirida no técnico com a profundidade científica e analítica do ecossistema universitário.
 
 ---
 
-## 🛠️ Competências em desenvolvimento
-**Linguagens de programação**  
-- Java  
-- JavaScript  
-- TypeScript  
-- C++  
-- SQL  
+## 🛠️ Stack Tecnológica & Competências
+**Linguagens de Programação & Banco de Dados** - Java (Desenvolvimento Android Nativo)  
+- C++ (Sistemas Embarcados / Arduino IDE)  
+- JavaScript / TypeScript  
+- PHP  
+- SQL (Modelagem Relacional, DML e DDL)  
 
-**Frameworks e ferramentas**  
-- Spring Boot  
-- Node.js  
-- Git  
-
-**Observação**  
-Ainda em fase de aprendizado sobre **APIs** e integração de sistemas, com planos de aprofundar este conhecimento em projetos futuros.
+**Frameworks, Ferramentas & Metodologias** - Spring Boot & Node.js  
+- Android SDK & Android Studio  
+- Controle de Versão (Git & GitHub)  
+- Engenharia de Requisitos & Modelagem UML (Visual Paradigm)  
+- Metodologias Ágeis (Scrum / Kanban via Notion)  
 
 ---
 
-## 📂 Projetos acadêmicos
-- **Aplicações em Java**: exercícios de lógica e orientação a objetos.  
-- **Programas em C++**: práticas de estruturas de dados e algoritmos.  
-- **Scripts em JavaScript/TypeScript**: automação de tarefas e manipulação de dados.  
-- **Banco de dados SQL**: modelagem e consultas para sistemas de cadastro.  
+## 📂 Projetos em Destaque
+
+### 📱 1. Projeto Aurora — Ecossistema de Segurança Pessoal (TCC)
+Desenvolvimento de uma plataforma integrada (Mobile + Hardware) voltada para a prevenção de riscos urbanos e suporte emergencial em tempo real para cidadãos em deslocamento diário.
+
+* **Aurora Mobile App:** Aplicativo nativo desenvolvido em **Java para Android**. Conta com recursos de geolocalização em tempo real (intervalos de 5s), botão SOS com disparo de logs de áudio/SMS, mapa colaborativo de áreas de risco em conformidade rigorosa com a **LGPD** (encriptação de dados sensíveis).
+* **Hardware Localizador:** Dispositivo vestível embarcado utilizando o microcontrolador **ESP32** e o módulo GPS **NEO-6M**, programado em **C++** via Arduino IDE. O hardware comunica-se diretamente com o smartphone via *Bluetooth Low Energy (BLE)* e Wi-Fi, permitindo o acionamento físico do SOS de forma discreta.
+* **Gestão do Projeto:** Modelado sob a metodologia híbrida **Scrum/Kanban** e documentado através de diagramas de Casos de Uso e Classes na UML.
+
+### 📟 2. Dispositivo de Localização Independente
+* **Descrição:** Projeto desenvolvido na disciplina de Sistemas Embarcados focado no rastreamento remoto de coordenadas geográficas.
+* **Tecnologias:** Microcontrolador ESP32, módulo GPS, codificação estruturada em C++ e validação de hardware via Arduino IDE.
 
 ---
 
-## 🎯 Metas de aprendizado
-- Consolidar fundamentos de programação orientada a objetos.  
-- Aprender e aplicar conceitos de **APIs REST**.  
-- Desenvolver projetos integrando **backend** e **frontend**.  
-- Praticar versionamento e colaboração com **Git/GitHub**.  
-- Concluir o curso técnico com projetos aplicáveis ao mercado de trabalho.  
+## 🏛️ Estrutura Acadêmica (UNIVESP)
+*Esta seção será populada à medida que eu avançar nos eixos da graduação:*
+
+- [ ] **Eixo de Fundamentos:** Algoritmos, Estrutura de Dados e Matemática Computacional.
+- [ ] **Projetos Integradores (PI):** Desenvolvimento de soluções de software voltadas a problemas reais da comunidade.
+- [ ] **Sistemas Operacionais & Redes:** Aprofundamento em infraestrutura e comunicação de dados.
+
+---
+
+## 🎯 Metas de Desenvolvimento Técnico
+- [ ] Finalizar o desenvolvimento prático do App Aurora (Java/Android) e testes de hardware (ESP32).
+- [ ] Implementar pipelines de CI/CD para automação de builds móveis.
+- [ ] Refinar conceitos de arquitetura de software (Clean Architecture) aplicados ao ecossistema Android.
+- [ ] Realizar auditorias de acessibilidade em interfaces mobile (padrões WCAG 2.1).
 
 ---
 
 ## 📬 Contato
-- **Email**: isaiasrocha.dev@gmail.com  
-- **GitHub**: [github.com/seu-usuario](https://github.com/isaias-rocha)  
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/isaias-rocha-44rr)  
+
+Sinta-se à vontade para se conectar comigo para parcerias acadêmicas ou oportunidades profissionais:
+
+- **📧 Email**: [isaiasrocha.dev@gmail.com](mailto:isaiasrocha.dev@gmail.com)  
+- **🐙 GitHub**: [github.com/isaias-rocha](https://github.com/isaias-rocha)  
+- **💼 LinkedIn**: [linkedin.com/in/isaias-rocha-44rr](https://linkedin.com/in/isaias-rocha-44rr)  
 
 ---
 
 ## 📌 Nota final
-Este repositório reflete minha trajetória acadêmica e profissional em construção.  
-Cada projeto representa um passo no desenvolvimento das minhas habilidades técnicas e na preparação para futuras oportunidades na área de tecnologia.
-
-
-
+> "A segurança física tratada por meio da tecnologia digital exige responsabilidade arquitetural, precisão de código e respeito à privacidade dos dados."
