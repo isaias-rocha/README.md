@@ -5,14 +5,8 @@
 ---
 
 
-# 📘 Portfólio Acadêmico — Tecnologia da Informação & Engenharia de Software
-
-Este repositório reúne meus principais projetos acadêmicos, notas de aula e laboratórios práticos. Ele documenta minha evolução técnica, consolidando a transição do Ensino Técnico para o Ensino Superior, com foco em desenvolvimento mobile, sistemas embarcados (IoT) e engenharia de software.
-
----
-
 ## 👨‍🎓 Sobre mim
-Técnico em **Desenvolvimento de Sistemas** (Etec Uirapuru) e graduando em **Bacharelado em Tecnologia da Informação (BTI)** pela **UNIVESP** (Universidade Virtual do Estado de São Paulo).
+Técnico em **Desenvolvimento de Sistemas - 3° Módulo** (Etec Uirapuru) e graduando em **Bacharelado em Tecnologia da Informação (BTI) - 1° Semestre** pela **UNIVESP** (Universidade Virtual do Estado de São Paulo).
 
 Tenho forte interesse em desenvolvimento de aplicações mobile nativas, internet das coisas (IoT) e modelagem de arquiteturas de software seguras e escaláveis. Busco alinhar a experiência prática adquirida no técnico com a profundidade científica e analítica do ecossistema universitário.
 
